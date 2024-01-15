@@ -1,7 +1,7 @@
 # Crop Selection Project
 
 Welcome to the Crop Selection project repository! This project is designed to help farmers make informed decisions about crop selection based on soil features. Whether you're a seasoned farmer or just starting, this tool can provide valuable insights into the most suitable crops for your field.
-![](crop1.jpg)
+<img src="crop1.jpg"/>
 ## Project Overview
 
 In this project, we leverage machine learning techniques to predict the recommended crops based on soil characteristics. The dataset includes essential features such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall. The model is trained on 80% of the data and achieves impressive accuracy rates:
