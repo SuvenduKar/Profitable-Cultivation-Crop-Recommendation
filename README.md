@@ -25,7 +25,7 @@ The Crop Selection tool utilizes a Decision Tree model trained on a diverse data
 To use the Crop Selection tool, follow these simple steps:
 
 1. **Run The Link:**
-Visit '''http://127.0.0.1:5000''' in your web browser to interact with the Crop Selection tool and tap on PREDICT.
+Visit '''http://127.0.0.1:5000''' in your web browser ( or run crop_app.py file in this repository) to interact with the Crop Selection tool and tap on PREDICT.
 ![First Interface](corp3.png)
 
 2.**Enter the Details about your Soil:**
